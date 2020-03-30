@@ -19,3 +19,7 @@ https://containerd.io/
 [tcp超时]
 
 - https://draveness.me/whys-the-design-tcp-time-wait
+
+[cpu缓存]
+
+- https://coolshell.cn/articles/20793.html
